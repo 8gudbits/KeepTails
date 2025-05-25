@@ -9,7 +9,7 @@ _**Script to backup and restore gnome settings for Tails OS**_
 Clone the project using **Git:**
 
 ```bash
-  git clone https://github.com/TechWhizKid/KeepTails.git
+  git clone https://github.com/8gudbits/KeepTails.git
 ```
 
 **To save and load settings for Tails OS, follow these steps:**
